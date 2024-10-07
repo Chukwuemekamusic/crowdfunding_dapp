@@ -43,3 +43,12 @@ z-others/**
 *.njsproj
 *.sln
 *.sw?
+
+# Readme files of other subdirectories
+web3_viem/README.md
+web3_viem/README.mdx
+my_web3/README.md
+my_web3/README.mdx
+frontend/README.md
+
+
