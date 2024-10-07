@@ -51,8 +51,8 @@ The project consists of the following main components:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/crowdfunding-dapp.git
-   cd crowdfunding-dapp
+   git clone https://github.com/Chukwuemekamusic/crowdfunding_dapp.git
+   cd crowdfunding_dapp
    ```
 
 2. Install dependencies for the Hardhat project:
