@@ -1,0 +1,24 @@
+[
+    {
+      "title": "Water for Africa",
+      "description": "Help provide clean water to communities in Africa by building wells.",
+      "target": "1000000000000000000", 
+      "deadline": "1715395200",  
+      "image": "https://ipfs.io/ipfs/QmTYEboq8raiBs7GTUg2yLXB3PMz6HuBNgNfSZBx5Msztg/camera.jpg"
+    },
+    {
+      "title": "Support Education",
+      "description": "Funding to support underprivileged students in rural areas.",
+      "target": "5000000000000000000",  
+      "deadline": "1717987200",  
+      "image": "https://ipfs.io/ipfs/QmTYEboq8raiBs7GTUg2yLXB3PMz6HuBNgNfSZBx5Msztg/drone.jpg"
+    },
+    {
+      "title": "Medical Aid for Refugees",
+      "description": "Provide urgent medical supplies to refugees in crisis zones.",
+      "target": "2000000000000000000",  
+      "deadline": "1720675200",  
+      "image": "https://ipfs.io/ipfs/QmTYEboq8raiBs7GTUg2yLXB3PMz6HuBNgNfSZBx5Msztg/headset.jpg"
+    }
+  ]
+  

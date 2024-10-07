@@ -1,0 +1,45 @@
+client_next/
+client_next/**
+client_react/
+client_react/**
+hardhat-boilerplate/
+hardhat-boilerplate/**
+web3/
+web3/**
+
+z-others/
+z-others/**
+
+# ignore all .env files in any directory
+**/.env*
+
+
+# common ignores across all projects
+**/node_modules/
+**/*.log
+**/.DS_Store
+
+# ignore specific files in my_web3 and web3_viem
+
+# TypeChain files
+**/typechain
+**/typechain-types
+**/cache
+# solidity-coverage files
+**/coverage
+**/coverage.json
+
+# Hardhat Ignition default folder for deployments against a local node
+**/ignition/deployments/chain-31337
+
+# ignore frontend specific files
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
